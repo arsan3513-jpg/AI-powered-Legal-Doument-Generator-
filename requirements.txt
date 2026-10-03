@@ -1,0 +1,27 @@
+LegalEase/
+│
+├── backend/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── routes.py
+│   ├── models.py
+│   │
+│   └── ai_core/
+│       ├── __init__.py
+│       └── gemini_generator.py
+│
+├── frontend/
+│   └── app.py
+│
+├── utils/
+│   ├── __init__.py
+│   ├── docx_generator.py
+│   ├── pdf_generator.py
+│   └── text_utils.py
+│
+├── assets/
+│   └── logo.png
+│
+├── .env
+├── requirements.txt
+└── README.md
